@@ -1,0 +1,14 @@
+streamlit
+pymupdf
+sentence-transformers
+faiss-cpu
+rank-bm25
+numpy
+requests
+torch
+torchvision
+langchain-community
+langchain-ollama
+ragas==0.2.10
+langchain-huggingface
+datasets
