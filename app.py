@@ -434,4 +434,4 @@ if uploaded_files:
                     f"📄 {chunk['source']} | "
                     f"Page {chunk['page']} | "
                     f"Reranker Score: {score:.4f}"
-                )            
+                )    
