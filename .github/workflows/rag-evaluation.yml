@@ -28,4 +28,4 @@ jobs:
 
       - name: Run RAG evaluation
         run: |
-          python evaluate.py
+          python evaluate_ci.py
